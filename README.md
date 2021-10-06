@@ -18,7 +18,7 @@ Application written with Swift language. Application data source is [Github API]
 
 # Usage
 
-Only one thing is wrong about the app, authentication. You should type your personal access token on the launch. If do not know how check the link below;
+Only one thing is wrong about the app, authentication. You should type your personal access token on the launch. At the launch you can click "get token" button and generate your Token. If do not know how check the link below;
 
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
